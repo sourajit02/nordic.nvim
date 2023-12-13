@@ -11,11 +11,11 @@ local palette = {
     black0 = '#191D24',
     black1 = '#1E222A',
     -- Slightly darker than bg.  Very useful for certain popups
-    black2 = '#222630',
+    black2 = '#131313',
 
     -- Grays
     -- This color is used on their website's dark theme.
-    gray0 = '#242933', -- bg
+    gray0 = '#161616', -- bg
     -- Polar Night.
     gray1 = '#2E3440',
     gray2 = '#3B4252',
