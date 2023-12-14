@@ -32,7 +32,7 @@ function C.extend_palette()
 
     C.bg_highlight = C.bg_dark
     C.bg_highlight = U.blend(C.bg_dark, C.bg, O.cursorline.blend)
-    C.bg_visual = C.bg_highlight
+    C.bg_visual = C.grey2
     C.bg_sidebar = C.bg
     C.bg_float = C.black1
     C.bg_popup = C.black1
