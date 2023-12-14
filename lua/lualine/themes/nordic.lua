@@ -22,7 +22,7 @@ nordic.command = {
 
 nordic.visual = {
     a = { bg = C.red.bright, fg = C.black0, gui = 'bold' },
-    b = { bg = C.gray1, fg = C.white1 },
+    b = { bg = C.gray4, fg = C.white1 },
     c = { bg = C.bg_statusline, fg = C.white0 },
 }
 
